@@ -1,0 +1,58 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+#header {
+    background-color: #F5F5F5;
+    border-bottom: 1px solid #CDCDCD;
+    padding: 12px 0;
+}
+
+#logo {
+    display: inline-block;
+    vertical-align: top;
+    width: 10%;
+}
+
+#nav {
+    display: inline-block;
+    vertical-align: top;
+    width: 88%;
+}
+
+.menu {
+    text-align: right;
+}
+
+.menu-item {
+    display: inline;
+}
+
+.menu-link {
+    color: #3c3c3c;
+    
+    &:hover {
+        text-decoration: none;
+    }
+}
+
+.intro {
+    padding: 48px 0;
+    text-align: center;
+
+    & h1 {
+        font-size: 40px;
+        margin-bottom: 16px;
+    }
+
+    & p {
+        font-size: 18px;
+    }
+}
