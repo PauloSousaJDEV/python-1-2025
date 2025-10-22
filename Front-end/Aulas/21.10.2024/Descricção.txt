@@ -1,0 +1,17 @@
+Pilares
+1- Medidas Relativas
+2- Imagens flexíveis
+3- Media Queries
+
+
+1- Único conteúdo > HTML
+O importante é o conteúdo
+
+2- Começar pelas telas pequenas > Mobile First
+
+ViewPort = Área útil do monitor
+VW - Viewport Width
+VH - Viewport Height
+
+
+Inserir 16 px no EMAIL
